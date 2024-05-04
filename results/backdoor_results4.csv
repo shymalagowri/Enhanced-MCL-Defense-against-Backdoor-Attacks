@@ -1,0 +1,2 @@
+epoch,test_clean_acc,test_bad_acc,test_bad_cls_loss
+1,52.13333333333333,7.355555555555555,2.5262992413838705

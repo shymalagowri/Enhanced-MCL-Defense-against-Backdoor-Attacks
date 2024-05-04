@@ -1,0 +1,37 @@
+
+
+1. tb.py attack file change the csv file name for each run and youll always get ASR as 0.00 a sthis is attack
+2. main3.py --------->run this for results
+
+
+config file ---> no of epochs, trigger_type
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+use main3.py  -----> with defense
+use nd1------< no defense
+attacj is badnet ------>each time change the name for csv
+
+
+modify the params as necessary

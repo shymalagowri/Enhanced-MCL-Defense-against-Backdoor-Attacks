@@ -1,0 +1,8 @@
+epoch,test_clean_acc,test_bad_acc,test_bad_cls_loss
+1,47.455555555555556,27.966666666666665,1.934224918047587
+epoch,test_clean_acc,test_bad_acc,test_bad_cls_loss
+2,48.25555555555555,33.522222222222226,1.9502330143186781
+epoch,test_clean_acc,test_bad_acc,test_bad_cls_loss
+3,68.53333333333333,98.62222222222222,0.04350086837013563
+epoch,test_clean_acc,test_bad_acc,test_bad_cls_loss
+4,65.16666666666667,99.9888888888889,0.001317141303456285
